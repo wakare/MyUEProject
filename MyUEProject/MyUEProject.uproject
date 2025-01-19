@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6BB97F3E-40D6-66FC-29C1-B8B828BA1B01}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyUEProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
